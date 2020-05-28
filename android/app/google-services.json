@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "888332697976",
+    "firebase_url": "https://ungfoodfirebase.firebaseio.com",
+    "project_id": "ungfoodfirebase",
+    "storage_bucket": "ungfoodfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888332697976:android:7d7e413214d2cb755a888d",
+        "android_client_info": {
+          "package_name": "com.flutterthailand.ungfoodfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888332697976-v9pgqie2p2imo85rfs9sb3or8gl3jk9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx_w8kOb6xGWHev2rQtkVbc4b1EKnXSGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888332697976-v9pgqie2p2imo85rfs9sb3or8gl3jk9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
